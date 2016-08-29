@@ -1,0 +1,53 @@
+{
+  "name": "learn_webpack_bible",
+  "version": "1.0.0",
+  "description": "Demos and webpack for your project",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LeeHyungGeun/learn_webpack_bible.git"
+  },
+  "keywords": [
+    "webpack"
+  ],
+  "author": "LeeHyungGeun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeeHyungGeun/learn_webpack_bible/issues"
+  },
+  "homepage": "https://github.com/LeeHyungGeun/learn_webpack_bible",
+  "dependencies": {
+    "jquery": "^3.1.0",
+    "webpack": "^1.13.2"
+  },
+  "devDependencies": {
+    "angular": "^1.5.8",
+    "autoprefixer-loader": "^3.2.0",
+    "babel-core": "^6.14.0",
+    "babel-loader": "^6.2.5",
+    "babel-preset-es2015": "^6.14.0",
+    "babel-preset-react": "^6.11.1",
+    "css-loader": "^0.24.0",
+    "ejs": "^2.5.1",
+    "express": "^4.14.0",
+    "extract-text-webpack-plugin": "^1.0.1",
+    "file-loader": "^0.9.0",
+    "json-loader": "^0.5.4",
+    "less": "^2.7.1",
+    "less-loader": "^2.2.3",
+    "morgan": "^1.7.0",
+    "raw-loader": "^0.5.1",
+    "react": "^15.3.1",
+    "react-dom": "^15.3.1",
+    "strip-json-comments": "^2.0.1",
+    "style-loader": "^0.13.1",
+    "timestamp-webpack-plugin": "^0.2.3",
+    "url-loader": "^0.5.7",
+    "webpack": "^1.13.2",
+    "webpack-dev-middleware": "^1.6.1",
+    "webpack-dev-server": "^1.15.0"
+  }
+}

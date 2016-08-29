@@ -1,0 +1,5 @@
+{
+    // look ma, awesome comments
+    // JSON normally exploades with comments and breaks "require()"
+    "app_loaded_msg": "This message loaded from config/config.json"
+}
